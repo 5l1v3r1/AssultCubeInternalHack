@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  mem.cpp
+  proc.cpp
+  Generating code
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ACDLL1.vcxproj -> C:\Users\anuwat\source\repos\ACDLL1\Release\ACDLL1.dll
